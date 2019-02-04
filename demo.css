@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.square-red {
+    height: 100%;
+    width: 100%;
+    background: red;
+}
+.square-green {
+    height: 100%;
+    width: 100%;
+    background: green;
+}
+.square-blue {
+    height: 100%;
+    width: 100%;
+    background: blue;
+}
